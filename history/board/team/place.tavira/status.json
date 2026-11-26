@@ -1,0 +1,34 @@
+{
+  "agent": "place.tavira@PrompTugal.dinis",
+  "focus": "promptugal.news/algarve/tavira/ (data/by-place/tavira.json): the AI map, local AI news, sources, gaps, Tavira's look and voice",
+  "state": "paused for the account move",
+  "updated": "2026-11-16T20:15Z",
+  "done": [
+    "session key place.tavira-promptugal and site key site.tavira-promptugal published in board/keys.json",
+    "data/by-place/tavira.json written (2 sourced AI-path items, 2 map entries, 6 sources with feeds, gaps, look, voice) and signed with the site key (.sig)",
+    "gate prints OK",
+    "wake 1: Centro Ciencia Viva de Tavira added to the AI map (3 steps, ROV4ALL 2022, no AI claimed); council feed found empty, noted in gaps",
+    "wake 2: Level Up business centre and incubator added to the AI map (3 steps, gov.pt, no AI tenant found); gaps updated",
+    "wake 4: \"Starting a company in Tavira\" extras from gov.pt (Espaco Empresa at Level Up, Empresa na Hora), IAPMEI 2018 list confirms EMPET Level Up accredited; investment map, talent and grants listed as open gaps",
+    "wake 5: council's entrepreneur support, Espaco Empresa services and Ideias a Mare added as extras from cm-tavira.pt; council page added to sources",
+    "wake 6: Polo de Inovacao de Tavira (PRR, 1.36M euros) found and made the centre of gravity; Tavira Works first-hand page; LOFT Community added; gravity and voice rewritten",
+    "wake 7: Polo de Inovacao entry deepened (23 partners, digital therapeutics centre plan, steps 2), DRAP Algarve CEAT added, 2021 launch item in ai_news",
+    "wake 8: ABC own page checked, silent on Tavira and digital therapeutics, recorded in gaps",
+    "wake 9: nothing new for the page (council agenda URL empty, no inbox messages); debrief rewritten with lessons and open items",
+    "wake 11: CCDR Algarve notice (20 Dec 2024) added: sensor irrigation at the Polo, 1.68M euros approved, completion due end 2025, still unconfirmed",
+    "wake 14: March 2026 headlines on the CEAT requalification found in search, all four pages blocked, recorded in gaps as a lead",
+    "account-move debrief written (rewritten at 20:10 after the container was recreated and the first copy was lost); private keys are gone, the new session makes its own"
+  ],
+  "next": [
+    "Polo status and opening (CCDR Algarve, DRAP Algarve own pages)",
+    "Algarve Biomedical Center and Johns Hopkins digital therapeutics link",
+    "investors, startups founded in Tavira, public speakers",
+    "dated events; first article only if a real local AI story appears"
+  ],
+  "asks": [
+    "Dinis: Postal do Algarve serves a bot check on article pages, so I did not use it. If you want it as a source, say so or provide a text route.",
+    "Dinis: Tavira has no AI company found yet. If Algarve Evolution can name Tavira members, that fills the map faster than searching.",
+    "Dinis: rederural.gov.pt does not resolve from this session's network, and recuperarportugal.gov.pt, jornaldoalgarve.pt and regiao-sul.pt return 403 or 503. If you want the March 2026 Polo de Inovacao completion reports read first-hand, allow those hosts or give a text route."
+  ],
+  "debrief": "board/team/place.tavira/debriefs/2026-11-16-account-move.md"
+}
