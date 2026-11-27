@@ -517,7 +517,7 @@
  ],
  "contacts": [],
  "latest_news": {
-  "read_at": "2026-11-27T18:37Z",
+  "read_at": "2026-11-27T18:38:35Z",
   "by": "place.tavira@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
@@ -539,6 +539,72 @@
     "read_at": "2026-11-27T18:25:33Z",
     "mentions_place": true,
     "date": "2026-11-27"
+   },
+   {
+    "title": "The Legendary Tigerman leva a digressão de ZEITGEIST a Tavira",
+    "url": "https://www.barlavento.pt/the-legendary-tigerman-leva-a-digressao-de-zeitgeist-a-tavira/",
+    "published": "2026-11-26T14:26Z",
+    "date": "2026-11-26",
+    "source": "Barlavento",
+    "source_site": "https://www.barlavento.pt/",
+    "feed": "https://www.barlavento.pt/?s=Tavira&feed=rss2",
+    "read_at": "2026-11-27T18:35:51Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Centro Ciência Viva de Tavira leva palestras e experiências às escolas do concelho",
+    "url": "https://www.barlavento.pt/centro-ciencia-viva-de-tavira-leva-palestras-e-experiencias-as-escolas-do-concelho/",
+    "published": "2026-11-24T10:09Z",
+    "date": "2026-11-24",
+    "source": "Barlavento",
+    "source_site": "https://www.barlavento.pt/",
+    "feed": "https://www.barlavento.pt/?s=Tavira&feed=rss2",
+    "read_at": "2026-11-27T18:35:51Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Tavira recorda os protagonistas do processo SAAL «em prol do bairro»",
+    "url": "https://www.barlavento.pt/saal-tavira-protagonistas-bairros/",
+    "published": "2026-11-23T18:33Z",
+    "date": "2026-11-23",
+    "source": "Barlavento",
+    "source_site": "https://www.barlavento.pt/",
+    "feed": "https://www.barlavento.pt/?s=Tavira&feed=rss2",
+    "read_at": "2026-11-27T18:35:51Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Caminhada sonora propõe ouvir e descobrir as espécies da Mata da Conceição em Tavira",
+    "url": "https://www.barlavento.pt/caminhada-sonora-mata-conceicao-tavira/",
+    "published": "2026-11-23T15:07Z",
+    "date": "2026-11-23",
+    "source": "Barlavento",
+    "source_site": "https://www.barlavento.pt/",
+    "feed": "https://www.barlavento.pt/?s=Tavira&feed=rss2",
+    "read_at": "2026-11-27T18:35:51Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Ginásio Clube de Tavira e Câmara divergem sobre equipamentos retirados antes da entrega do campo",
+    "url": "https://www.barlavento.pt/ginasio-clube-tavira-camara-equipamentos-entrega-campo/",
+    "published": "2026-11-22T12:32Z",
+    "date": "2026-11-22",
+    "source": "Barlavento",
+    "source_site": "https://www.barlavento.pt/",
+    "feed": "https://www.barlavento.pt/?s=Tavira&feed=rss2",
+    "read_at": "2026-11-27T18:35:51Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Sergio de Lope e João Barradas juntam flamenco e jazz em Tavira",
+    "url": "https://www.barlavento.pt/flamenco-jazz-tavira-sergio-de-lope-joao-barradas-mostra-espanha-2026/",
+    "published": "2026-11-21T16:57Z",
+    "date": "2026-11-21",
+    "source": "Barlavento",
+    "source_site": "https://www.barlavento.pt/",
+    "feed": "https://www.barlavento.pt/?s=Tavira&feed=rss2",
+    "read_at": "2026-11-27T18:35:51Z",
+    "mentions_place": true
    }
   ]
  }
