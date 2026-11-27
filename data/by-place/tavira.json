@@ -517,7 +517,7 @@
  ],
  "contacts": [],
  "latest_news": {
-  "read_at": "2026-11-27T07:37Z",
+  "read_at": "2026-11-27T07:38:31Z",
   "by": "place.tavira@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
@@ -539,6 +539,105 @@
     "read_at": "2026-11-27T07:25:24Z",
     "mentions_place": true,
     "date": "2026-11-26"
+   },
+   {
+    "title": "Tavira encerra o ano com nove sessões de cinema no Teatro Municipal António Pinheiro",
+    "url": "https://postal.pt/algarve/tavira-encerra-o-ano-com-nove-sessoes-de-cinema-no-teatro-municipal-antonio-pinheiro/",
+    "published": "2026-11-26T08:55Z",
+    "date": "2026-11-26",
+    "source": "Postal do Algarve",
+    "source_site": "https://postal.pt/",
+    "feed": "https://postal.pt/?s=Tavira&feed=rss2",
+    "read_at": "2026-11-27T07:35:56Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Tavira promove visita orientada à história da comunidade judaica da cidade",
+    "url": "https://postal.pt/algarve/tavira-promove-visita-orientada-a-historia-da-comunidade-judaica-da-cidade/",
+    "published": "2026-11-25T16:00Z",
+    "date": "2026-11-25",
+    "source": "Postal do Algarve",
+    "source_site": "https://postal.pt/",
+    "feed": "https://postal.pt/?s=Tavira&feed=rss2",
+    "read_at": "2026-11-27T07:35:56Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Orquestra do Algarve apresenta concerto “Música sem fronteiras” em Tavira",
+    "url": "https://postal.pt/algarve/orquestra-do-algarve-apresenta-concerto-musica-sem-fronteiras-em-tavira/",
+    "published": "2026-11-25T15:11Z",
+    "date": "2026-11-25",
+    "source": "Postal do Algarve",
+    "source_site": "https://postal.pt/",
+    "feed": "https://postal.pt/?s=Tavira&feed=rss2",
+    "read_at": "2026-11-27T07:35:56Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Mais de metade da receita vem dos imóveis: Loulé, Lagos, Tavira e Portimão entre os seis concelhos do país onde o IMI e o IMT mais pesam",
+    "url": "https://postal.pt/nacional/mais-de-metade-da-receita-vem-dos-imoveis-loule-lagos-tavira-e-portimao-entre-os-seis-concelhos-do-pais-onde-o-imi-e-o-imt-mais-pesam/",
+    "published": "2026-11-24T13:15Z",
+    "date": "2026-11-24",
+    "source": "Postal do Algarve",
+    "source_site": "https://postal.pt/",
+    "feed": "https://postal.pt/?s=Tavira&feed=rss2",
+    "read_at": "2026-11-27T07:35:56Z",
+    "mentions_place": true
+   },
+   {
+    "title": "D’Dance Company, de Tavira, conquista ouro em duas categorias em competição nos Estados Unidos",
+    "url": "https://postal.pt/algarve/ddance-company-de-tavira-conquista-ouro-em-duas-categorias-em-competicao-nos-estados-unidos/",
+    "published": "2026-11-24T10:15Z",
+    "date": "2026-11-24",
+    "source": "Postal do Algarve",
+    "source_site": "https://postal.pt/",
+    "feed": "https://postal.pt/?s=Tavira&feed=rss2",
+    "read_at": "2026-11-27T07:35:56Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Centro Ciência Viva de Tavira leva palestras e experiências às escolas do concelho",
+    "url": "https://www.barlavento.pt/centro-ciencia-viva-de-tavira-leva-palestras-e-experiencias-as-escolas-do-concelho/",
+    "published": "2026-11-24T10:09Z",
+    "date": "2026-11-24",
+    "source": "Barlavento",
+    "source_site": "https://www.barlavento.pt/",
+    "feed": "https://www.barlavento.pt/?s=Tavira&feed=rss2",
+    "read_at": "2026-11-27T07:35:44Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Festa na Horta celebra 100 anos do Posto Agrário de Tavira com oficinas, música e partilha de saberes",
+    "url": "https://postal.pt/algarve/festa-na-horta-celebra-100-anos-do-posto-agrario-de-tavira-com-oficinas-musica-e-partilha-de-saberes/",
+    "published": "2026-11-24T08:45Z",
+    "date": "2026-11-24",
+    "source": "Postal do Algarve",
+    "source_site": "https://postal.pt/",
+    "feed": "https://postal.pt/?s=Tavira&feed=rss2",
+    "read_at": "2026-11-27T07:35:56Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Tavira recorda os protagonistas do processo SAAL «em prol do bairro»",
+    "url": "https://www.barlavento.pt/saal-tavira-protagonistas-bairros/",
+    "published": "2026-11-23T18:33Z",
+    "date": "2026-11-23",
+    "source": "Barlavento",
+    "source_site": "https://www.barlavento.pt/",
+    "feed": "https://www.barlavento.pt/?s=Tavira&feed=rss2",
+    "read_at": "2026-11-27T07:35:44Z",
+    "mentions_place": true
+   },
+   {
+    "title": "The Legendary Tigerman leva o rock a Tavira com concerto no Teatro António Pinheiro",
+    "url": "https://postal.pt/algarve/the-legendary-tigerman-leva-o-rock-a-tavira-com-concerto-no-teatro-antonio-pinheiro/",
+    "published": "2026-11-23T15:40Z",
+    "date": "2026-11-23",
+    "source": "Postal do Algarve",
+    "source_site": "https://postal.pt/",
+    "feed": "https://postal.pt/?s=Tavira&feed=rss2",
+    "read_at": "2026-11-27T07:35:56Z",
+    "mentions_place": true
    }
   ]
  }
