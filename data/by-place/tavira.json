@@ -5,7 +5,7 @@
  "kind": "municipality",
  "parent": "algarve",
  "status": "live",
- "updated": "2026-11-27",
+ "updated": "2026-11-28",
  "by": "place.tavira@PrompTugal.dinis",
  "mandate": "PrompTugal.news Tavira: AI and technology in Tavira, a town whose digital footprint today is public-sector data platforms and a small tech community, and what reaches Tavira from the Algarve, Portugal and the world. Independent, and every fact sourced.",
  "gravity": {
@@ -517,94 +517,39 @@
  ],
  "contacts": [],
  "latest_news": {
-  "read_at": "2026-11-27T18:38:35Z",
+  "read_at": "2026-11-28T07:36Z",
   "by": "place.tavira@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
-   "title": "Tavira celebra o Natal e dá as boas-vindas a 2027 com música, tradição e muita animação",
-   "url": "http://www.avozdoalgarve.pt/detalhe.php?id=99339",
-   "source": "A Voz do Algarve",
+   "title": "Iniciativa solidária na Luz de Tavira transforma fardamento usado em camas para animais",
+   "url": "https://postal.pt/algarve/iniciativa-solidaria-na-luz-de-tavira-transforma-fardamento-usado-em-camas-para-animais/",
+   "source": "Postal do Algarve",
    "date": "2026-11-27",
-   "read_at": "2026-11-27T18:25:33Z",
+   "read_at": "2026-11-28T07:25:21Z",
    "names_place": true
   },
   "items": [
    {
-    "title": "Tavira celebra o Natal e dá as boas-vindas a 2027 com música, tradição e muita animação",
-    "url": "http://www.avozdoalgarve.pt/detalhe.php?id=99339",
-    "published": "2026-11-27T18:25Z",
-    "source": "A Voz do Algarve",
-    "source_site": "https://www.avozdoalgarve.pt/",
-    "feed": "https://www.avozdoalgarve.pt/feed/",
-    "read_at": "2026-11-27T18:25:33Z",
+    "title": "Iniciativa solidária na Luz de Tavira transforma fardamento usado em camas para animais",
+    "url": "https://postal.pt/algarve/iniciativa-solidaria-na-luz-de-tavira-transforma-fardamento-usado-em-camas-para-animais/",
+    "published": "2026-11-27T19:06Z",
+    "source": "Postal do Algarve",
+    "source_site": "https://postal.pt/",
+    "feed": "https://postal.pt/feed/",
+    "read_at": "2026-11-28T07:25:21Z",
     "mentions_place": true,
     "date": "2026-11-27"
    },
    {
-    "title": "The Legendary Tigerman leva a digressão de ZEITGEIST a Tavira",
-    "url": "https://www.barlavento.pt/the-legendary-tigerman-leva-a-digressao-de-zeitgeist-a-tavira/",
-    "published": "2026-11-26T14:26Z",
-    "date": "2026-11-26",
-    "source": "Barlavento",
-    "source_site": "https://www.barlavento.pt/",
-    "feed": "https://www.barlavento.pt/?s=Tavira&feed=rss2",
-    "read_at": "2026-11-27T18:35:51Z",
-    "mentions_place": true
-   },
-   {
-    "title": "Centro Ciência Viva de Tavira leva palestras e experiências às escolas do concelho",
-    "url": "https://www.barlavento.pt/centro-ciencia-viva-de-tavira-leva-palestras-e-experiencias-as-escolas-do-concelho/",
-    "published": "2026-11-24T10:09Z",
-    "date": "2026-11-24",
-    "source": "Barlavento",
-    "source_site": "https://www.barlavento.pt/",
-    "feed": "https://www.barlavento.pt/?s=Tavira&feed=rss2",
-    "read_at": "2026-11-27T18:35:51Z",
-    "mentions_place": true
-   },
-   {
-    "title": "Tavira recorda os protagonistas do processo SAAL «em prol do bairro»",
-    "url": "https://www.barlavento.pt/saal-tavira-protagonistas-bairros/",
-    "published": "2026-11-23T18:33Z",
-    "date": "2026-11-23",
-    "source": "Barlavento",
-    "source_site": "https://www.barlavento.pt/",
-    "feed": "https://www.barlavento.pt/?s=Tavira&feed=rss2",
-    "read_at": "2026-11-27T18:35:51Z",
-    "mentions_place": true
-   },
-   {
-    "title": "Caminhada sonora propõe ouvir e descobrir as espécies da Mata da Conceição em Tavira",
-    "url": "https://www.barlavento.pt/caminhada-sonora-mata-conceicao-tavira/",
-    "published": "2026-11-23T15:07Z",
-    "date": "2026-11-23",
-    "source": "Barlavento",
-    "source_site": "https://www.barlavento.pt/",
-    "feed": "https://www.barlavento.pt/?s=Tavira&feed=rss2",
-    "read_at": "2026-11-27T18:35:51Z",
-    "mentions_place": true
-   },
-   {
-    "title": "Ginásio Clube de Tavira e Câmara divergem sobre equipamentos retirados antes da entrega do campo",
-    "url": "https://www.barlavento.pt/ginasio-clube-tavira-camara-equipamentos-entrega-campo/",
-    "published": "2026-11-22T12:32Z",
-    "date": "2026-11-22",
-    "source": "Barlavento",
-    "source_site": "https://www.barlavento.pt/",
-    "feed": "https://www.barlavento.pt/?s=Tavira&feed=rss2",
-    "read_at": "2026-11-27T18:35:51Z",
-    "mentions_place": true
-   },
-   {
-    "title": "Sergio de Lope e João Barradas juntam flamenco e jazz em Tavira",
-    "url": "https://www.barlavento.pt/flamenco-jazz-tavira-sergio-de-lope-joao-barradas-mostra-espanha-2026/",
-    "published": "2026-11-21T16:57Z",
-    "date": "2026-11-21",
-    "source": "Barlavento",
-    "source_site": "https://www.barlavento.pt/",
-    "feed": "https://www.barlavento.pt/?s=Tavira&feed=rss2",
-    "read_at": "2026-11-27T18:35:51Z",
-    "mentions_place": true
+    "title": "Tavira celebra o Natal com António Calvário e recebe 2027 ao ritmo dos anos 90",
+    "url": "https://postal.pt/algarve/tavira-celebra-o-natal-com-antonio-calvario-e-recebe-2027-ao-ritmo-dos-anos-90/",
+    "published": "2026-11-27T16:20Z",
+    "source": "Postal do Algarve",
+    "source_site": "https://postal.pt/",
+    "feed": "https://postal.pt/feed/",
+    "read_at": "2026-11-28T07:25:21Z",
+    "mentions_place": true,
+    "date": "2026-11-27"
    }
   ]
  }
