@@ -517,18 +517,29 @@
  ],
  "contacts": [],
  "latest_news": {
-  "read_at": "2026-11-28T07:36Z",
+  "read_at": "2026-11-28T07:37:37Z",
   "by": "place.tavira@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
-   "title": "Iniciativa solidária na Luz de Tavira transforma fardamento usado em camas para animais",
-   "url": "https://postal.pt/algarve/iniciativa-solidaria-na-luz-de-tavira-transforma-fardamento-usado-em-camas-para-animais/",
+   "title": "História de Tavira: O período Cartaginês. Tempos obscuros – Parte 7 | Por José Manuel do Carmo",
+   "url": "https://postal.pt/opiniao/historia-de-tavira-o-periodo-cartagines-tempos-obscuros-parte-7-por-jose-manuel-do-carmo/",
    "source": "Postal do Algarve",
-   "date": "2026-11-27",
-   "read_at": "2026-11-28T07:25:21Z",
+   "date": "2026-11-28",
+   "read_at": "2026-11-28T07:34:56Z",
    "names_place": true
   },
   "items": [
+   {
+    "title": "História de Tavira: O período Cartaginês. Tempos obscuros – Parte 7 | Por José Manuel do Carmo",
+    "url": "https://postal.pt/opiniao/historia-de-tavira-o-periodo-cartagines-tempos-obscuros-parte-7-por-jose-manuel-do-carmo/",
+    "published": "2026-11-28T07:30Z",
+    "date": "2026-11-28",
+    "source": "Postal do Algarve",
+    "source_site": "https://postal.pt/",
+    "feed": "https://postal.pt/?s=Tavira&feed=rss2",
+    "read_at": "2026-11-28T07:34:56Z",
+    "mentions_place": true
+   },
    {
     "title": "Iniciativa solidária na Luz de Tavira transforma fardamento usado em camas para animais",
     "url": "https://postal.pt/algarve/iniciativa-solidaria-na-luz-de-tavira-transforma-fardamento-usado-em-camas-para-animais/",
@@ -550,6 +561,83 @@
     "read_at": "2026-11-28T07:25:21Z",
     "mentions_place": true,
     "date": "2026-11-27"
+   },
+   {
+    "title": "Pai Natal chega ao Tavira Plaza este sábado com cortejo festivo, música e animação",
+    "url": "https://postal.pt/algarve/pai-natal-chega-ao-tavira-plaza-este-sabado-com-cortejo-festivo-musica-e-animacao/",
+    "published": "2026-11-27T11:20Z",
+    "date": "2026-11-27",
+    "source": "Postal do Algarve",
+    "source_site": "https://postal.pt/",
+    "feed": "https://postal.pt/?s=Tavira&feed=rss2",
+    "read_at": "2026-11-28T07:34:56Z",
+    "mentions_place": true
+   },
+   {
+    "title": "The Legendary Tigerman leva a digressão de ZEITGEIST a Tavira",
+    "url": "https://www.barlavento.pt/the-legendary-tigerman-leva-a-digressao-de-zeitgeist-a-tavira/",
+    "published": "2026-11-26T14:26Z",
+    "date": "2026-11-26",
+    "source": "Barlavento",
+    "source_site": "https://www.barlavento.pt/",
+    "feed": "https://www.barlavento.pt/?s=Tavira&feed=rss2",
+    "read_at": "2026-11-28T07:34:51Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Tavira encerra o ano com nove sessões de cinema no Teatro Municipal António Pinheiro",
+    "url": "https://postal.pt/algarve/tavira-encerra-o-ano-com-nove-sessoes-de-cinema-no-teatro-municipal-antonio-pinheiro/",
+    "published": "2026-11-26T08:55Z",
+    "date": "2026-11-26",
+    "source": "Postal do Algarve",
+    "source_site": "https://postal.pt/",
+    "feed": "https://postal.pt/?s=Tavira&feed=rss2",
+    "read_at": "2026-11-28T07:34:56Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Tavira promove visita orientada à história da comunidade judaica da cidade",
+    "url": "https://postal.pt/algarve/tavira-promove-visita-orientada-a-historia-da-comunidade-judaica-da-cidade/",
+    "published": "2026-11-25T16:00Z",
+    "date": "2026-11-25",
+    "source": "Postal do Algarve",
+    "source_site": "https://postal.pt/",
+    "feed": "https://postal.pt/?s=Tavira&feed=rss2",
+    "read_at": "2026-11-28T07:34:56Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Orquestra do Algarve apresenta concerto “Música sem fronteiras” em Tavira",
+    "url": "https://postal.pt/algarve/orquestra-do-algarve-apresenta-concerto-musica-sem-fronteiras-em-tavira/",
+    "published": "2026-11-25T15:11Z",
+    "date": "2026-11-25",
+    "source": "Postal do Algarve",
+    "source_site": "https://postal.pt/",
+    "feed": "https://postal.pt/?s=Tavira&feed=rss2",
+    "read_at": "2026-11-28T07:34:56Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Mais de metade da receita vem dos imóveis: Loulé, Lagos, Tavira e Portimão entre os seis concelhos do país onde o IMI e o IMT mais pesam",
+    "url": "https://postal.pt/nacional/mais-de-metade-da-receita-vem-dos-imoveis-loule-lagos-tavira-e-portimao-entre-os-seis-concelhos-do-pais-onde-o-imi-e-o-imt-mais-pesam/",
+    "published": "2026-11-24T13:15Z",
+    "date": "2026-11-24",
+    "source": "Postal do Algarve",
+    "source_site": "https://postal.pt/",
+    "feed": "https://postal.pt/?s=Tavira&feed=rss2",
+    "read_at": "2026-11-28T07:34:56Z",
+    "mentions_place": true
+   },
+   {
+    "title": "D’Dance Company, de Tavira, conquista ouro em duas categorias em competição nos Estados Unidos",
+    "url": "https://postal.pt/algarve/ddance-company-de-tavira-conquista-ouro-em-duas-categorias-em-competicao-nos-estados-unidos/",
+    "published": "2026-11-24T10:15Z",
+    "date": "2026-11-24",
+    "source": "Postal do Algarve",
+    "source_site": "https://postal.pt/",
+    "feed": "https://postal.pt/?s=Tavira&feed=rss2",
+    "read_at": "2026-11-28T07:34:56Z",
+    "mentions_place": true
    }
   ]
  }
